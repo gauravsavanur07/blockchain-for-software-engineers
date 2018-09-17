@@ -25,7 +25,7 @@ Create and curate a list of resources for aspiring and seasoned blockchain engin
 - [How to use it](#how-to-use-it)
 - [Data Structures](#data-structures)
 - [Cryptography](#cryptography)
-- [Ethics of Blockchain](#Blockchain)
+- [Ethics of Blockchain](https://medium.com/coinmonks/ethics-of-blockchain-f66f24a4e9d9)
 - [Distributed Systems](#distributed-systems)
 - [Networking](#networking)
 - [Economics](#economics)
