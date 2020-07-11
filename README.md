@@ -24,6 +24,7 @@ Create and curate a list of resources for aspiring and seasoned blockchain engin
 - [Covering the Material](#covering-the-material)
 - [How to use it](#how-to-use-it)
 - [Data Structures](#data-structures)
+-[Object-Oriented Programming](£OOP)
 - [Cryptography](#cryptography)
 - [Ethics of Blockchain](https://medium.com/coinmonks/ethics-of-blockchain-f66f24a4e9d9)
 - [Distributed Systems](#distributed-systems)
